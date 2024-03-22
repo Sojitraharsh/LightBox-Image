@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 body{
+    height: 100vh;
+    width: 100wh;
     font-family: sans-serif;
     background: #ee9ca7;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
